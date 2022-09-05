@@ -12,3 +12,10 @@ npm init @eslint/config
 npm install eslint-config-standard
 npm i --save-dev typescript @typescript-eslint/parser
 npm i --save-dev @typescript-eslint/eslint-plugin
+
+* se eu me esquecer de fazer um commit de um arquivo especifico, eu posso reutilizar o ultimo commit:
+gitt add .
+git commit --amend --no-edit
+
+npm i -D husky
+npm i -D lint-staged
