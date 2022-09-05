@@ -1,6 +1,6 @@
 git init
 npm init -y
-npm i -D git-commit-msg-linter => gera um hook por "trás dos panos" que valida a msg dos commits, nao admitindo msgs despadronuzadas.
+npm i -D git-commit-msg-linter => gera um hook por "trás dos panos" que valida a msg dos commits, nao admitindo msgs despadronizadas.
 npm cache clear --force (as vezes é necessário para limpar o cache)
 npm i -D typescript @types/node
 
@@ -22,3 +22,7 @@ npm i -D jest @types/jest ts-jest
 jest --init
 
 npm i ts-node-dev  => o meu terminal pediu pra instalar isso tbem
+
+jest --clearCache => as vezes é necessário limpar o cash;
+
+estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 2/1
