@@ -20,3 +20,5 @@ npm i -D lint-staged
 
 npm i -D jest @types/jest ts-jest
 jest --init
+
+npm i ts-node-dev  => o meu terminal pediu pra instalar isso tbem
