@@ -1,10 +1,8 @@
 git init
 npm init -y
-npm i -D git-commit-msg-linter
+npm i -D git-commit-msg-linter => gera um hook por "trás dos panos" que valida a msg dos commits, nao admitindo msgs despadronuzadas.
 npm cache clear --force (as vezes é necessário para limpar o cache)
 npm i -D typescript @types/node
-
-npm install --save-dev eslint@6 eslint-plugin-standard@4 eslint-plugin-promise@4 eslint-plugin-import@2 eslint-plugin-node@9 @typescript-eslint/eslint-plugin@2 eslint-config-standard-with-typescript
 
 
 ** eslint: 
@@ -19,3 +17,6 @@ git commit --amend --no-edit
 
 npm i -D husky
 npm i -D lint-staged
+
+npm i -D jest @types/jest ts-jest
+jest --init
