@@ -1,5 +1,6 @@
 /* eslint-disable consistent-return */
 /* eslint-disable class-methods-use-this */
+/* eslint-disable import/prefer-default-export */
 export class SignupController {
   handle(httpRequest: any): any {
     if (!httpRequest.body.name) {
