@@ -21,5 +21,10 @@ module.exports = {
   ],
   rules: {
     'eslint-disable no-unused-vars': 'off',
+    'import/prefer-default-export': 'off',
+    'import/extensions': 'off',
+    'import/no-unresolved': 'off',
+    'consistent-return': 'off',
+    'class-methods-use-this': 'off',
   },
 };
