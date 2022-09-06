@@ -25,4 +25,7 @@ npm i ts-node-dev  => o meu terminal pediu pra instalar isso tbem
 
 jest --clearCache => as vezes é necessário limpar o cash;
 
-estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 2/1
+npm install -g npm-check 
+npm-check -s -u => comando verifica se existem bibliotecas desatualizadas
+
+estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 3/1
