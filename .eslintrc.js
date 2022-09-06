@@ -26,5 +26,6 @@ module.exports = {
     'import/no-unresolved': 'off',
     'consistent-return': 'off',
     'class-methods-use-this': 'off',
+    'no-restricted-syntax': 'off',
   },
 };
