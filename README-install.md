@@ -28,4 +28,5 @@ jest --clearCache => as vezes é necessário limpar o cash;
 npm install -g npm-check 
 npm-check -s -u => comando verifica se existem bibliotecas desatualizadas
 
-estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 3/1
+https://github.com/rmanguinho/clean-ts-api
+estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 3/2
