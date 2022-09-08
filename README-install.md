@@ -29,4 +29,4 @@ npm install -g npm-check
 npm-check -s -u => comando verifica se existem bibliotecas desatualizadas
 
 https://github.com/rmanguinho/clean-ts-api
-estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 3/4
+estudo => NodeJs, Typescript, TDD, Clean Architecture e SOLID: 3/5
