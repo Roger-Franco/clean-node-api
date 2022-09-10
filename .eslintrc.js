@@ -29,5 +29,6 @@ module.exports = {
     'no-restricted-syntax': 'off',
     'no-unused-vars': 'off',
     'no-undef': 'off',
+    'no-promise-executor-return': 'off',
   },
 };
