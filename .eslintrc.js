@@ -30,5 +30,6 @@ module.exports = {
     'no-unused-vars': 'off',
     'no-undef': 'off',
     'no-promise-executor-return': 'off',
+    'max-classes-per-file': 'off',
   },
 };
